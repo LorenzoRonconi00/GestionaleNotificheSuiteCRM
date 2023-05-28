@@ -9,6 +9,7 @@ pip install -r .\requirements.txt
 ### Configurazione Dati
 
 #### Usando il file 'impostazioni.json', inserire le informazioni necessarie al funzionamento del programma.
+        In questo caso il file impostazioni.json non è presente per questioni di privacy
 
 **verbose** : "true" o "false"  
 indica se l'output nei log debba essere piu' dettagliato, per motivi di debugging
